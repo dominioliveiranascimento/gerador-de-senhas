@@ -3,7 +3,7 @@ import tkinter as tk
 import string
 
 janela = tk.Tk()
-janela.title("Gerador de Senhas")  # título da janela
+janela.title("Gerador de Senhas")
 entrada = tk.Entry(janela)
 entrada.pack()
 
@@ -24,6 +24,7 @@ botao.pack()
 
 janela.mainloop()
     
+
 
 
 
